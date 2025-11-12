@@ -75,5 +75,5 @@ The goal is to enhance **logistics efficiency** and **customer satisfaction** by
 ## Author
 **Nilesh Bahirgaonkar**  
 *Data Scientist*  
-gmail : nileshbahirgaonkar1494@gmail.com 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/nilesh-bahirgaonkar/)
+- gmail : nileshbahirgaonkar1494@gmail.com 
+- [LinkedIn Profile](https://www.linkedin.com/in/nilesh-bahirgaonkar/)
