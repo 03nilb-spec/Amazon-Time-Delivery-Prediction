@@ -72,6 +72,17 @@ The goal is to enhance **logistics efficiency** and **customer satisfaction** by
 
 ---
 
+## 🧩 Requirements
+
+To run this project, you’ll need the following dependencies:
+
+- Python 3.10  
+- scikit-learn  
+- pandas  
+- matplotlib  
+- seaborn  
+- jupyter
+---
 ## Author
 **Nilesh Bahirgaonkar**  
 *Data Scientist*  
